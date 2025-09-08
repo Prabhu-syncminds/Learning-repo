@@ -1,13 +1,11 @@
 # Learning & Research Repo
 
-This repository contains my personal notes, references, and experiments while 
+This repository contains notes, references, and experiments while 
 learning about AI, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG).
 
 ## Structure
 - `notes/` → Markdown notes & summaries
 - `references/` → Paper links & citations
-- `experiments/` → Code notebooks and small tests
-- `todo.md` → Roadmap & tasks
 
 ## Goals
 - Build structured knowledge over time
