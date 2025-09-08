@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
 # What is LLM
 
 An **LLM** (Large Language Model) is a type of artificial intelligence (AI) model designed to understand, generate, and process human-like text, typically using deep learning and neural network architectures known as **transformers**.[^1_1][^1_2][^1_5]
