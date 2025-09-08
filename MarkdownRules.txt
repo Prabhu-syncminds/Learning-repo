@@ -1,0 +1,31 @@
+Markdown Note Basics Rules
+
+# Heading 1
+## Heading 2
+### Heading 3
+
+**Bold text**  
+*Italic text*  
+~~Strikethrough~~  
+
+- Bullet point  
+- Another point  
+  - Nested point  
+
+1. Numbered list
+2. Second item
+
+`Inline code`
+
+```python
+# Code block example
+print("Hello, world!")
+
+
+Each `.md` file can have:  
+- `# Title`  
+- `## Key Concepts`  
+- `## Summary`  
+- `## References`  
+
+---
