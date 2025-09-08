@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
 # What is a vector database? How many types of vector databases do we have?
 
 A **vector database** is a specialized database designed to store, manage, and index high-dimensional vector data—often used in artificial intelligence (AI), machine learning, and semantic search applications to enable fast similarity searches and process unstructured data like images, documents, audio, and video.[^1_2][^1_4][^1_5][^1_6]

@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
 # What are embeddings?
 
 Embeddings are numerical vector representations of complex data objects—such as text, images, audio, and more—mapped into a continuous, often high-dimensional space where the spatial positions capture semantic or meaningful relationships among these objects. They enable machine learning models to understand, compare, and find similarities between different data points by converting them into vectors where closer vectors indicate higher similarity.

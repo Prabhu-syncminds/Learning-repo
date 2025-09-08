@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
 # What is a RAG?
 
 A **RAG** is a Retrieval-Augmented Generation system, an artificial intelligence technique that combines traditional information retrieval (like search engines) with generative language models to produce more accurate, up-to-date, and domain-specific outputs.[^1_19][^1_20]
